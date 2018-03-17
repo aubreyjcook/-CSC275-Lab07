@@ -1,4 +1,6 @@
 
-public class Swordsman {
-
+public class Swordsman extends Playable {
+	public void attack(int damageToInflict, Entity playerToAttack) {
+		
+	}
 }
